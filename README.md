@@ -11,9 +11,10 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Statistics
-![trophy](https://github-profile-trophy.vercel.app/?username=amats6655&theme=monokai)]
+![trophy](https://github-profile-trophy.vercel.app/?username=amats6655&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amats6655&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amats6655&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amats6655&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amats6655&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amats6655&theme=monokai)
+
