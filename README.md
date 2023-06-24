@@ -4,10 +4,10 @@
 
 
 ## Statistics
-![trophy](https://github-profile-trophy.vercel.app/?username=amats6655&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amats6655&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amats6655&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amats6655&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amats6655&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amats6655&theme=monokai)
+![trophy](https://github-profile-trophy.vercel.app/?username=amats6655)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amats6655)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amats6655)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amats6655)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amats6655)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amats6655)
 
