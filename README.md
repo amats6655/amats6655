@@ -5,13 +5,12 @@
 
 ![gif](img/img.gif)
 
-
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amats6655&label=Profile%20views&color=0e75b6&style=flat" alt="amats6655" /> </p>
-- 🔭 I’m currently working on [PrintStatus](https://github.com/amats6655/PrintStatus)
+<img src="https://komarev.com/ghpvc/?username=amats6655&label=Profile%20views&color=0e75b6&style=flat" alt="amats6655" />
 
 
+ :man_technologist: I’m currently working on [PrintStatus](https://github.com/amats6655/PrintStatus)
 ###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
