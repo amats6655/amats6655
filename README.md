@@ -1,4 +1,13 @@
-# Привет! 👋 Я Андрей
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=CSharpie&textBg=false&fontAlign=75&descAlign=89&desc=amats6655&section=header&fontColor=9370DB&fontAlignY=50&descAlignY=65)
+
+<p align="center">
+  <a href="https://github.com/amats6655?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/amats6655?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/AnMnV?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/amats6655?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=amats6655&color=0E9C47&style=for-the-badge">
+</p>
+
 
 ## 🚀 Обо мне
 - 🌱 Учусь и развиваюсь в разработке на .NET и Frontend (React, TypeScript)
